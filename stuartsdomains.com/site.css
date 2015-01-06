@@ -1,0 +1,15 @@
+﻿body { font-family: Arial, Verdana, sans-serif; }
+h1 { font-size: 48px; margin: 0; font-weight: normal; letter-spacing: 1px; text-align: justify; -moz-text-align-last: justify; text-align-last: justify; }
+.page { width: 640px; margin: 0 auto; }
+.centered { text-align: center; }
+
+.logo { vertical-align: top; }
+#domain-list { height: 620px; position: relative; }
+#domain-list ul { margin: 0; padding: 0; list-style-type: none; }
+.cycle-slideshow { width: 33.333%;  margin: 0 auto; }
+.arrow { position: absolute; top: 300px; }
+.arrow:hover { cursor: pointer; }
+.arrow#prev { left: 0; }
+.arrow#next { right: 0; }
+
+.names { width: 33.333%;  margin: 0 auto; }
